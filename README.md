@@ -24,3 +24,5 @@ Linear regression best cv: 0.5919485899728963
  lasso best cv and alpha: 0.5073672812218897 with best alpha: 7.9060432109076855
  
  ridge best cv and alpha: 0.5074684833885426 with best alpha: 232.99518105153672
+
+ The best model is ridge model as shown by the data results of the cv scores.
